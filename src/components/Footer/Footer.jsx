@@ -80,7 +80,7 @@ function Footer() {
             <a href="https://github.com/Shaanz-cmd" className="hover:underline">
               Shaanz-cmd
             </a>
-            . All Rights Reserved.
+            . All Rights Reseved.
           </span>
           <div className="flex mt-4 space-x-5 sm:justify-center sm:mt-0">
             <Link to="#" className="text-gray-500">
